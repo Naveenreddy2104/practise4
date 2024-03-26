@@ -12,7 +12,7 @@
 
 //     List<Author> selectAuthor();
 
-//     Author selectAuthorById(Long id);
+     Author selectAuthorById(Long id);
 
 //     boolean deleteAuthor(Long id);
         
